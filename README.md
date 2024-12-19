@@ -26,7 +26,7 @@
 
 ![Codewars Rank](https://img.shields.io/badge/dynamic/json?label=Codewars&query=$.ranks.overall.name&url=https://www.codewars.com/api/v1/users/nozpera&color=white&style=for-the-badge&logo=codewars&logoColor=red)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nozpera&show_icons=true&locale=en&layout=compact&card_width=320" alt="nozpera" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nozpera&show_icons=true&locale=en&card_width=320" alt="nozpera" />
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nozpera&show_icons=true&locale=en" alt="nozpera" /></p>
 
