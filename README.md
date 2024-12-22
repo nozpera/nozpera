@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nozpera&label=Profile%20views&color=0e75b6&style=flat" alt="nozpera" /> </p>
 
-- 🌱 I’m currently learning **Git and GitHub**
+- 🌱 I’m currently learning **Structured Query Language**
 
 - 💬 Ask me about **Statistics, Machine Learning, Python, Math, Excel, R, SPSS, Data Analyst, Data Science**
 
