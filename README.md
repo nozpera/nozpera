@@ -1,7 +1,6 @@
 ![MasterHead](https://i.ibb.co.com/9GwFFDM/banner-github.gif)
 <h2 align="center">Ahmad Ryan Permana</h2>
 <h3 align="center">Data Enthusiast | Engineer by Nature, Scientist by Passion.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhvNm5yeGxpdWJoeDFoMXgxazI5bHp2bmR5cnY5ZTRlajVrbGZkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nozpera&label=Profile%20views&color=0e75b6&style=flat" alt="nozpera" /> </p>
 
@@ -29,8 +28,6 @@ Carving a world out of numbers and code, I am a **Data Engineer** passionate abo
 ![Codewars Rank](https://img.shields.io/badge/dynamic/json?label=Codewars&query=$.ranks.overall.name&url=https://www.codewars.com/api/v1/users/nozpera&color=white&style=for-the-badge&logo=codewars&logoColor=red)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nozpera&show_icons=true&locale=en&card_width=320" alt="nozpera" />
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=nozpera&show_icons=true&locale=en" alt="nozpera" /></p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Nozpera?theme=white) 
 
