@@ -1,9 +1,11 @@
 ![MasterHead](https://i.ibb.co.com/9GwFFDM/banner-github.gif)
 <h2 align="center">Ahmad Ryan Permana</h2>
-<h3 align="center">A Data Enthusiast Passionate About Uncovering Insights and Shaping The Future through Data Science.</h3>
+<h3 align="center">Data Enthusiast | Engineer by Nature, Scientist by Passion.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzhvNm5yeGxpdWJoeDFoMXgxazI5bHp2bmR5cnY5ZTRlajVrbGZkMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nozpera&label=Profile%20views&color=0e75b6&style=flat" alt="nozpera" /> </p>
+
+Carving a world out of numbers and code, I am a **Data Engineer** passionate about building robust data infrastructure and a **Data Scientist** always hungry for insights hidden in data.
 
 - 🌱 I’m currently learning **Structured Query Language**
 
