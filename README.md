@@ -1,4 +1,3 @@
-![MasterHead](https://i.ibb.co.com/9GwFFDM/banner-github.gif)
 <h2 align="center">Ahmad Ryan Permana</h2>
 <h3 align="center">Data Enthusiast | Engineer by Nature, Scientist by Passion.</h3>
 
